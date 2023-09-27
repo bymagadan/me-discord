@@ -1,7 +1,7 @@
 from pypresence import Presence
 from time import time
 
-RPC = Presence("859819593827745792")
+RPC = Presence(" // ")
 btns = [
     {
         "label": "VK",
