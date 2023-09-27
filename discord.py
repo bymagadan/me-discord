@@ -15,15 +15,16 @@ btns = [
 ]
 RPC.connect()
 RPC.update(
-    state="КБТуху на 81 ворота!",
-    details="ТСД для хуесосов",
+    state=" ",
+    details=" ",
     start=time(),
     buttons=btns,
-    large_image="doomerdns1",
-    small_image="znxnpl7xyao",
-    large_text="пошли покурим?",
-    small_text="пошли..."
+    large_image=" ",
+    small_image=" ",
+    large_text=" ",
+    small_text=" "
     
 )
 input()
 
+#not relevant
