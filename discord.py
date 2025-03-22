@@ -5,7 +5,7 @@ RPC = Presence(" // ")
 btns = [
     {
         "label": "VK",
-        "url": "https://vk.com/hxuzjtocnzvv5g2rtg2bhwkcb"
+        "url": "https://vk.com/hxuzjtocnzvv5"
     },
 
     {
