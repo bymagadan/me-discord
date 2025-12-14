@@ -5,7 +5,7 @@ RPC = Presence(" // ")
 btns = [
     {
         "label": "VK",
-        "url": "https://vk.com/hxuzjtocnzvv5"
+        "url": "https://vk.com"
     },
 
     {
@@ -28,3 +28,4 @@ RPC.update(
 input()
 
 #not relevant :/
+
